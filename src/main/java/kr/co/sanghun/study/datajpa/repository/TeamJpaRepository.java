@@ -1,6 +1,5 @@
 package kr.co.sanghun.study.datajpa.repository;
 
-import kr.co.sanghun.study.datajpa.entity.Member;
 import kr.co.sanghun.study.datajpa.entity.Team;
 import org.springframework.stereotype.Repository;
 
